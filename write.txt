@@ -2,3 +2,4 @@ this is new txt file my name is faysal i am learnig programming shikbo.
 this feature extra added and this problem solved
 tumi kamon aco ami balo aci and very need urgent
 
+added some new text for test-conflict branch
